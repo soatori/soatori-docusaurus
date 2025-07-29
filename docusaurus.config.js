@@ -126,10 +126,10 @@ const config = {
                 label: "AcFun",
                 href: "https://www.acfun.cn/u/12816444.aspx",
               },*/
-              {
+              /*{
                 label: "抖音",
                 href: "https://www.douyin.com/user/MS4wLjABAAAA-ybaYCaYP90D0zxUOUgsKGXOVgxMjx-ZXHGwPaQiuFQ",
-              },
+              },*/
               /*{
                 label: "西瓜视频",
                 href: "https://www.ixigua.com/c/user/59410370157 ",
@@ -193,10 +193,10 @@ const config = {
                  label: "新浪微博",
                  href: "https://weibo.com/cbsjz",
                },
-               {
+              /*{
                  label: "烧鸡REC",
                  href: "https://space.bilibili.com/400613608",
-               },
+               },*/
              ],
           },
 		      {
